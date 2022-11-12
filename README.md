@@ -15,7 +15,6 @@ Smart Water Meter is a device which monitors the water comsumption by an entity 
 1. After executing the code you can observe the output in Serial Window of Arduino IDE or your connected peripheral display.
 2. Wait for the ESP module to connect to the wifi.
 3. The output screen should be updated as defined by user in line 104 of SWM.ino file.
-test file
 
 ## Dependencies
 1. EEPROM: library for Arduino IDE to make code compatible with ESP8266 microcontroller.
